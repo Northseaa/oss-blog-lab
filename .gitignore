@@ -1,0 +1,12 @@
+runtime/content/data/
+runtime/content/logs/
+runtime/.ghost*
+runtime/.ghost-cli*
+.env
+*.env
+*.pem
+*.log
+node_modules/
+.DS_Store
+*.zip
+dist/
